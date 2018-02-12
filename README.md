@@ -1,5 +1,7 @@
 # Lab Quiz 1
 
+Read all instructions before you begin. As always, you are expected to commit and push at LEAST after completing each Problem.
+
 ## Problem 1 (5 points)
 
 The Instructor class consists of a firstname (String), office building (String) and room number (int). There is a no-arg constructor that initializes the properties to “Albert”, “Einstein”, “McNair”, 420. There is also a constructor with a parameter for each class property. Finally, there is a toString() method that returns each property separated by an asterisk * .
