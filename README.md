@@ -14,7 +14,7 @@ Using any other resource to complete this quiz will be considered an academic in
 
 ## Problem 1 (5 points)
 
-The Instructor class consists of a firstname (String), office building (String) and room number (int). There is a no-arg constructor that initializes the properties to “Albert”, “Einstein”, “McNair”, 420. There is also a constructor with a parameter for each class property. Finally, there is a toString() method that returns each property separated by an asterisk * .
+The Instructor class consists of a firstname (String), lastname (String), office building (String) and room number (int). There is a no-arg constructor that initializes the properties to “Albert”, “Einstein”, “McNair”, 420. There is also a constructor with a parameter for each class property. Finally, there is a toString() method that returns each property separated by an asterisk * .
 1. Create a Netbeans project and name it CourseScheduler.
 2. Implement the Instructor class in Java. Declare and instantiate two Instructor objects in the main() method of your project (one object using each constructor). Output the object properties to the console using the toString() method. When you are finished, get the TA to check your code to get the lab points.
 
