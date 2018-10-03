@@ -20,7 +20,7 @@ The Instructor class consists of a firstname (String), lastname (String), office
 
 ## Problem 2 (5 points)
 
-The Textbook class consists of a title (String), publisher (String) and edition (int). There is a no-arg constructor that initializes Strings to “” and numeric values to zero. A second constructor has formal parameters for each property. The class toString() method returns a String with each property separated by a `System.getProperty(“line.separator”)` char (this is similar to the System.lineseparator() method but is system/platform independent).
+The Textbook class consists of a title (String), publisher (String) and edition (int). There is a no-arg constructor that initializes Strings to “” and numeric values to zero. A second constructor has formal parameters for each property. The class toString() method returns a String with each property separated by a `System.lineseparator()` char.
 1. Implement the Textbook class in the CourseScheduler project. Declare and instantiate Textbook objects in the main() using both constructors. Output the object properties using the toString() method. When you are finished, get the TA to check your code to get the lab points.
 
 ## Problem 3 (5 points)
