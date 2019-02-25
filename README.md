@@ -12,6 +12,10 @@ There are a limited number of resources allowed on this exam:
 
 Using any other resource to complete this quiz will be considered an academic integrity violation.
 
+## Grading
+
+You should show a TA your work after completing each problem in order to get full credit. You must complete this lab within your lab period.
+
 ## Problem 1 (5 points)
 
 The Instructor class consists of a firstname (String), lastname (String), office building (String) and room number (int). There is a no-arg constructor that initializes the properties to “Albert”, “Einstein”, “McNair”, 420. There is also a constructor with a parameter for each class property. Finally, there is a toString() method that returns each property separated by an asterisk * .
